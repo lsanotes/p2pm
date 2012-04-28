@@ -1,0 +1,4 @@
+1. libpcap grab packets and store the statistics in files
+2. python parase files and show the statistics in a humanic way 
+
+ref: nethogs -> uses CPP and C, include ncurses.
